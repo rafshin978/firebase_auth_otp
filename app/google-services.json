@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "897297741466",
+    "project_id": "fire-auth-otp-b9131",
+    "storage_bucket": "fire-auth-otp-b9131.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897297741466:android:d0e7cc2ca91df50ee7d123",
+        "android_client_info": {
+          "package_name": "com.example.fire_auth_otp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897297741466-evlbuetppr8vjao537ah6t1arjouofpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhgeRKibZs27zD5Klo8RkVYa93De1wC9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897297741466-evlbuetppr8vjao537ah6t1arjouofpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

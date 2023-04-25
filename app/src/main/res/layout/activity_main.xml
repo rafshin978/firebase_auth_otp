@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:padding="20dp">
+
+    <EditText
+        android:id="@+id/mob"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="Mobile"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/sbmtbtn"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:text="submit"
+        android:layout_gravity="center"/>
+
+    <EditText
+        android:id="@+id/otp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="Otp"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/vrfybtn"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:text="Verify"
+        android:layout_gravity="center"/>
+
+</LinearLayout>
